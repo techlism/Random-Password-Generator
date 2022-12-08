@@ -1,5 +1,6 @@
 
 //UpperCase and LowerCase can be merged and then the Output will be a bit more Complex.
+//Techlism
 function returnLowerCase(){
     let letterIndex = Math.floor(Math.random() * 26)
     let lowerCase = String.fromCharCode(letterIndex + 'a'.charCodeAt(0)) 
